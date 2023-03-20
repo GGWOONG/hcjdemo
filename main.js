@@ -1,7 +1,7 @@
 document.getElementById('time').innerHTML = new Date().toLocaleString()
 
-function pink() {
-  document.body.style.backgroundColor = 'pink'
+function green() {
+  document.body.style.backgroundColor = 'green'
 }
 
 function lightblue() {
@@ -11,7 +11,7 @@ function yellow() {
   document.body.style.backgroundColor = 'yellow'
 }
 function reset() {
-  document.body.style.backgroundColor = 'linen'
+  document.body.style.backgroundColor = 'black'
 }
 
 function showhtml() {
